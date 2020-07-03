@@ -1,0 +1,51 @@
+﻿@model sharp_sharp.Models.calc
+@{
+    ViewBag.Title = "Index";
+}
+
+<html>
+
+<head>
+
+
+</head>
+    
+
+<body>
+     <h2>BMI calculator</h2>
+
+     <div class="row">
+         @using (Html.BeginForm("/index", "calc", FormMethod.Post))
+         {
+
+             <div class="form.group">
+                 <label for="WEIGHT">WEIGHT</label>
+                 <input type="text" class="form-control" id="WEIGHT" name="WEIGHT" value="@Model.WEIGHT" />
+             </div>
+
+
+             <div class="form.group">
+                 <label for="HEIGHT">HEIGHT</label>
+                 <input type="text" class="form-control" id="HEIGHT" name="HEIGHT" value="@Model.HEIGHT" />
+             </div>
+
+             <div class="form.group">
+                 <label for="BMI">BMI</label>
+                 <input type="text" class="form-control" id="BMI" name="BMI" value="@Model.BMI" />
+             </div>
+
+             <button type="submit" class="btn btn-default" id="divv" value="divv" name="calculate">calculate</button>
+         }
+
+
+
+     </div>
+
+
+</body>
+
+
+</html>
+
+<h2>Index</h2>
+

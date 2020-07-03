@@ -1,0 +1,79 @@
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\obj\Debug\sharp sharp.csprojAssemblyReference.cache
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\obj\Debug\sharp sharp.csproj.CoreCompileInputs.cache
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\sharp sharp.dll.config
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\sharp sharp.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\sharp sharp.pdb
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\csc.exe
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\csc.exe.config
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\csc.rsp
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\csi.exe
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\csi.exe.config
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\csi.rsp
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.AppContext.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Console.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.IO.Compression.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Net.Http.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.ValueTuple.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\vbc.exe
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\vbc.exe.config
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\vbc.rsp
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\VBCSCompiler.exe
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\Antlr3.Runtime.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\Newtonsoft.Json.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.Helpers.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.Mvc.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.Optimization.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.Razor.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.WebPages.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.WebPages.Razor.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\WebGrease.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.Helpers.xml
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.Mvc.xml
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.Optimization.xml
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.Razor.xml
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.WebPages.xml
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\System.Web.WebPages.Razor.xml
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\Newtonsoft.Json.xml
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\Antlr3.Runtime.pdb
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\obj\Debug\sharp sharp.csproj.CopyComplete
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\obj\Debug\sharp sharp.dll
+C:\Users\emil.asuquo\source\repos\sharp sharp\sharp sharp\obj\Debug\sharp sharp.pdb
